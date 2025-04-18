@@ -12,5 +12,5 @@ Institut für Algebraische Geometrie
 Leibniz Universität Hannover  
 Welfengarten 1  
 30167 Hannover  
-Office: d403  
+Office: g022  
 <pietig@math.uni-hannover.de>
