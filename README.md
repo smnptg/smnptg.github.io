@@ -1,6 +1,7 @@
 I am a PhD student at Leibniz Universität Hannover. My advisor is [Stefan Schreieder](https://www.iag.uni-hannover.de/de/institut/personenverzeichnis/schreieder). I am currently working in complex algebraic geometry with a focus on holomorphic 1-forms on Kähler spaces. Before, I completed my master's degree in Bonn under the supervision of [Daniel Huybrechts](https://www.math.uni-bonn.de/~huybrech/).
 
 # Pre-Prints
+* Holomorphic 1-forms without zeros on Kähler manifolds ([Link](https://arxiv.org/abs/2610.40097))
 * Holomorphic 1-forms without zeros on Kähler manifolds of Kodaira codimension 1 ([Link](http://arxiv.org/abs/2512.08395))
 * Holomorphic 1-forms without zeros on Kähler threefolds ([Link](https://arxiv.org/abs/2506.22067))
 
